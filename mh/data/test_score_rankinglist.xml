@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+<info>
+<id>1</id>
+<devicename>Test</devicename>
+<score>53464.45</score>
+</info>
+<info>
+<id>2</id>
+<devicename>Test1</devicename>
+<score>35663.76</score>
+</info>
+</apps>
