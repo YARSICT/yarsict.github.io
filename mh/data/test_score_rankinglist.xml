@@ -10,4 +10,19 @@
 <devicename>Test1</devicename>
 <score>35663.76</score>
 </info>
+<info>
+<id>3</id>
+<devicename>ZUK Z2121</devicename>
+<score>20269.14</score>
+</info>
+<info>
+<id>4</id>
+<devicename>REDMI 2</devicename>
+<score>3961.6</score>
+</info>
+<info>
+<id>5</id>
+<devicename>GT-N7100</devicename>
+<score>3589.96</score>
+</info>
 </apps>
