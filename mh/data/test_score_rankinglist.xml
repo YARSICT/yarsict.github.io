@@ -13,15 +13,30 @@
 <info>
 <id>3</id>
 <devicename>ZUK Z2121</devicename>
-<score>20269.14</score>
+<score>24669.14</score>
 </info>
 <info>
 <id>4</id>
+<devicename>REDMI 7</devicename>
+<score>21646.2</score>
+</info>
+<info>
+<id>5</id>
+<devicename>M6 Note</devicename>
+<score>21048.64</score>
+</info>
+<info>
+<id>6</id>
+<devicename>SM-G9250</devicename>
+<score>18381.23</score>
+</info>
+<info>
+<id>7</id>
 <devicename>REDMI 2</devicename>
 <score>3961.6</score>
 </info>
 <info>
-<id>5</id>
+<id>8</id>
 <devicename>GT-N7100</devicename>
 <score>3589.96</score>
 </info>
