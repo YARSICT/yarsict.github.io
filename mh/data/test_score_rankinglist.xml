@@ -2,33 +2,33 @@
 <apps>
 <info>
 <id>1</id>
-<devicename>Android</devicename>
-<score>53464.45</score>
+<devicename>MI 9</devicename>
+<score>14446.22</score>
 </info>
 <info>
 <id>2</id>
-<devicename>MI 5</devicename>
-<score>26385.76</score>
+<devicename>LYA-AL00</devicename>
+<score>14123.1</score>
 </info>
 <info>
 <id>3</id>
-<devicename>ZUK Z2121</devicename>
-<score>24669.14</score>
+<devicename>MI 8</devicename>
+<score>13967.5</score>
 </info>
 <info>
 <id>4</id>
-<devicename>REDMI 7</devicename>
-<score>21646.2</score>
+<devicename>MIX 2S</devicename>
+<score>13234.65</score>
 </info>
 <info>
 <id>5</id>
-<devicename>M6 Note</devicename>
-<score>21048.64</score>
+<devicename>MI 5</devicename>
+<score>11645.3</score>
 </info>
 <info>
 <id>6</id>
-<devicename>SM-G9250</devicename>
-<score>18381.23</score>
+<devicename>ZUK Z2121</devicename>
+<score>10546.1</score>
 </info>
 <info>
 <id>7</id>
@@ -39,5 +39,13 @@
 <id>8</id>
 <devicename>GT-N7100</devicename>
 <score>3589.96</score>
+</info>
+<id> </id>
+<devicename>以上为v0.9.0测试结果</devicename>
+<score> </score>
+</info>
+<id> </id>
+<devicename>跑分功能处于Beta阶段，分数可能出现异常，我们会尽快更新，以上分数仅供参考。</devicename>
+<score> </score>
 </info>
 </apps>
