@@ -1,43 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <apps>
 <info>
 <id>1</id>
-<devicename>MI 9</devicename>
-<score>14446.22</score>
+<devicename>小米9透明尊享版</devicename>
+<score>92255.6</score>
 </info>
 <info>
 <id>2</id>
-<devicename>LYA-AL00</devicename>
-<score>14123.1</score>
+<devicename>小米9</devicename>
+<score>90464.2</score>
 </info>
 <info>
 <id>3</id>
-<devicename>MI 8</devicename>
-<score>13967.5</score>
+<devicename>三星S9</devicename>
+<score>70362.5</score>
 </info>
 <info>
 <id>4</id>
-<devicename>MIX 2S</devicename>
-<score>13234.65</score>
+<devicename>华为mate20Pro</devicename>
+<score>66434.5</score>
 </info>
 <info>
 <id>5</id>
-<devicename>MI 5</devicename>
-<score>11645.3</score>
+<devicename>小米MIX2</devicename>
+<score>52468.6</score>
 </info>
 <info>
 <id>6</id>
-<devicename>ZUK Z2121</devicename>
-<score>10546.1</score>
+<devicename>一加5</devicename>
+<score>43347.4</score>
 </info>
 <info>
 <id>7</id>
-<devicename>REDMI 2</devicename>
-<score>3961.6</score>
+<devicename>ZUK Z2 Pro</devicename>
+<score>32330.73</score>
 </info>
 <info>
 <id>8</id>
-<devicename>GT-N7100</devicename>
-<score>3589.96</score>
+<devicename>小米5</devicename>
+<score>24629.78</score>
+</info>
+<info>
+<id>9</id>
+<devicename>红米7</devicename>
+<score>28570.1</score>
+</info>
+<info>
+<id>10</id>
+<devicename>三星S6 edge</devicename>
+<score>20297.41</score>
 </info>
 </apps>
