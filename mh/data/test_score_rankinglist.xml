@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <apps>
+<info>
 <id>1</id>
 <devicename>三星S10+</devicename>
 <score>107063.74</score>
@@ -24,6 +25,7 @@
 <devicename>小米9</devicename>
 <score>106107.27</score>
 </info>
+<info>
 <id>6</id>
 <devicename>三星S10</devicename>
 <score>106102.9</score>
@@ -68,6 +70,7 @@
 <devicename>魅族16Plus</devicename>
 <score>72029.77</score>
 </info>
+<info>
 <id>15</id>
 <devicename>一加6T</devicename>
 <score>71933.72</score>
